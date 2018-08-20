@@ -1,0 +1,31 @@
+/* Page grey background */
+/* Teal button background color */
+/* Darker teal color on buttons */
+/* Black button border on hover */
+/* Default button background color */
+/* Default button background color on hover */
+/* Button hover background color */
+/* Button font color */
+/* Button font color on hover */
+/* Navbar background color */
+/* Navbar link background color on hover */
+/* Navbar link font color */
+/* Navbar link font color on hover */
+/* Navbar dropdown active link highlighting color */
+/* Forms background color */
+/* Error message color */
+/* Field highlight background color */
+.space {
+  padding: 10px; }
+
+/* Validation error message */
+.error-message {
+  color: #FF0000; }
+
+/* Hide error message when appropriate */
+.hidden-error {
+  display: none; }
+
+/* Highlight border on error */
+.dropdown .required-dropdown {
+  border-color: #FF0000; }

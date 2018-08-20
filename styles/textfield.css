@@ -1,0 +1,42 @@
+/* Page grey background */
+/* Teal button background color */
+/* Darker teal color on buttons */
+/* Black button border on hover */
+/* Default button background color */
+/* Default button background color on hover */
+/* Button hover background color */
+/* Button font color */
+/* Button font color on hover */
+/* Navbar background color */
+/* Navbar link background color on hover */
+/* Navbar link font color */
+/* Navbar link font color on hover */
+/* Navbar dropdown active link highlighting color */
+/* Forms background color */
+/* Error message color */
+/* Field highlight background color */
+/* Textfield error message styling */
+.error-message {
+  color: #FF0000; }
+
+/* Align label and textfield in one line */
+.inline-textfield .input-label, .inline-textfield .textfield-component {
+  display: inline-block; }
+
+/* Add spacing between label and text field */
+.inline-textfield .input-label:after {
+  content: "   ";
+  white-space: pre; }
+
+.preserve-id .input-label:after {
+  content: " ";
+  white-space: pre; }
+
+/* Hide text fields used to vertically align text fields vertically */
+.placeholder-textfield .textfield-component {
+  visibility: hidden; }
+
+/* Textfield highlighting on error */
+.required-error input {
+  background-color: #FFF0F0;
+  border: 1px solid #FF0000; }
